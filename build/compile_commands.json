@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/me/workspace/DSA-using-C/DSA/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/dsa.dir/main.c.o -c /home/me/workspace/DSA-using-C/DSA/main.c",
+  "file": "/home/me/workspace/DSA-using-C/DSA/main.c"
+}
+]
