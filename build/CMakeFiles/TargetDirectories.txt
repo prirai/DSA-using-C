@@ -1,7 +1,0 @@
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/dsa.dir
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/edit_cache.dir
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/rebuild_cache.dir
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/list_install_components.dir
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/install.dir
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/install/local.dir
-/home/me/workspace/DSA-using-C/DSA/build/CMakeFiles/install/strip.dir
